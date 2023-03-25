@@ -23,8 +23,7 @@ Mapkit
 
 
 Es una api de forex que encontré, todas son de paga pero esta te deja hacer 250 peticiones al mes, espero no se acaben...
-Se debe poner en el archivo Manager.kt en el método generateServiceAPI()
-API key forex: xnbdxk7XVYtqUOm3TnJtSnaUUESc4ayI
+
 
 Puedes generar una si te registras con tu correo personal y tener más peticiones.
 
